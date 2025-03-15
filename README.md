@@ -1,2 +1,2 @@
 # terminal-tetris
-A terminal based tetris game
+A terminal based tetris game written in GO.
